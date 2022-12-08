@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adebobol 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript/React
+- 👀 I’m interested in Web Development/Web3.
+- 🌱 I’m currently learning Javascript/React.
 - 💞️ I’m looking to collaborate on Javascript Related Projects.
 - 📫 How to reach me ...
 
